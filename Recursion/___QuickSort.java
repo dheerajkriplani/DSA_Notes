@@ -1,3 +1,5 @@
+package Recursion;
+
 public class ___QuickSort {
     public static void main(String[] args) {
         int arr[] = {7, 6, 9, 4, 11, 2, 5};
